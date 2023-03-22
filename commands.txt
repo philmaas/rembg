@@ -1,0 +1,9 @@
+python "B:\Fable_Github\rembg\rembg.py" p "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\_sandbox\GDC\character_visuals\take1" "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\_sandbox\GDC\character_visuals\take1_transparent"
+
+python "B:\Fable_Github\rembg\rembg.py" p "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\_sandbox\GDC\character_visuals\take2" "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\_sandbox\GDC\character_visuals\take2_transparent"
+
+python "B:\Fable_Github\rembg\rembg.py" p "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\footage\friends\Rachelremove2" "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\footage\friends\Rachelremove2_transparent"
+
+python "B:\Fable_Github\rembg\rembg.py" i "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\_sandbox\GDC\character_visuals\behaviorist_reference.jpg" "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\_sandbox\GDC\character_visuals\behaviorist_reference_transparent.png"
+
+python "B:\Fable_Github\rembg\rembg.py" i "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\_sandbox\GDC\character_visuals\supervisor_reference_highres_fix.png" "B:\Dropbox\Projects\FableStudio\TheSimulation\Ad\assets\_sandbox\GDC\character_visuals\supervisor_reference_highres_fix_transparent.png"
